@@ -1,0 +1,22 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+**/*.zip
+**/reference/
+**/backup/
+**/.ipynb_checkpoints/
+**/.vscode/
+**/__pycache__/
+
+# Assignment 1
+
+
+# Assignment 2
+Assignment 2/cache/
+Assignment 2/data*/
+
+# Assignment 3
+
+
+# Project
+Project/cache/
